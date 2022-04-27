@@ -1,5 +1,8 @@
 ## Hi there, I'm Rollend (He/Him)
 
+![Rollend's GitHub stats](https://github-readme-stats.vercel.app/api?username=rollendxavier&theme=dark&show_icons=true&count_private=true)
+
+
 I'm a Senior Consultant at [Insight](https://au.insight.com/en_AU) working in the Apps & Infrastructure Team! My focus is on Cloud Technology, DevOps, Azure, Terraform  and I'm based in Perth, Australia.
 
 ### ⚡ Languages and Technologies
