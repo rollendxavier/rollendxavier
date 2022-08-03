@@ -3,7 +3,7 @@
 ![Rollend's GitHub stats](https://github-readme-stats.vercel.app/api?username=rollendxavier&theme=dark&show_icons=true&count_private=true)
 
 
-I'm a Senior Consultant at [Insight](https://au.insight.com/en_AU) working in the Apps & Infrastructure Team! My focus is on Cloud Technology, DevOps, Azure, Terraform  and I'm based in Perth, Australia.
+I'm a Senior Consultant at [Insight](https://au.insight.com/en_AU) working in the Apps & Infrastructure Team! I have 16 years of experience in software development & current my focus is on Cloud Platform Adoption, DevOps, Azure, Terraform  and I'm based in Perth, Australia.
 
 ### ⚡ Languages and Technologies
 
@@ -13,9 +13,9 @@ I'm a Senior Consultant at [Insight](https://au.insight.com/en_AU) working in th
 * (Other): API Design, Non-relational Database Design, Unit Testing (xUnit), Integration Testing (SpecFlow) & E2E Testing.
 
 ### ☕ Work
-* **Insight, Australia**: Current job. Senior Consultant working in the Apps & Infrastructure Team.
-* **Tata Consultancy Service, Australia**: Software engineering and architect role developing cloud solutions using C#, Azure, AWS, SQL, Kafka and Oracle to integrate with customer’s existing technical infrastructure and business processes.
-* **Cognizant**: Built systems that deal with Insurance, Banking & Finance across United States & APAC regions. These applications are built on the Azure ,C#, SQL etc.
+* **Insight, Australia (2021)**: Current job. Senior Consultant working in the Apps & Infrastructure Team.
+* **Tata Consultancy Service, Australia (2016)**: Software engineering and architect role developing cloud solutions using C#, Azure, AWS, SQL, Kafka and Oracle to integrate with customer’s existing technical infrastructure and business processes.
+* **Cognizant (2007)**: Built systems that deal with Insurance, Banking & Finance across United States & APAC regions. These applications are built on the Azure ,C#, SQL etc.
 
 
 ### 📫 How to reach me
