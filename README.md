@@ -3,7 +3,7 @@
 ![Rollend's GitHub stats](https://github-readme-stats.vercel.app/api?username=rollendxavier&theme=dark&show_icons=true&count_private=true)
 
 
-I'm a Senior Consultant at [Insight](https://au.insight.com/en_AU) working in the Apps & Infrastructure Team! I have 16 years of experience in software development & current my focus is on Cloud Platform Adoption, DevOps, Azure, Terraform  and I'm based in Perth, Australia.
+I'm a Senior Consultant at [Insight](https://au.insight.com/en_AU) working in the Apps & Infrastructure Team! I have 16 years of experience in software development & my focus is on Cloud Platform Adoption, DevOps, Azure, Terraform  and I'm based in Perth, Australia.
 
 ### ⚡ Languages and Technologies
 
