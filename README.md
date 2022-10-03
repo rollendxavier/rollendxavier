@@ -23,7 +23,7 @@ I'm a Senior Consultant at [Insight](https://au.insight.com/en_AU) working in th
 * [LinkedIn](https://www.linkedin.com/in/rollendxavier/)
 * [Medium](https://rollendxavier.medium.com/)
 * [Dev.to](https://dev.to/rollendxavier)
-
+* [Gists](https://gist.github.com/rollendxavier)
 
 <!---
 rollendxavier/rollendxavier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
