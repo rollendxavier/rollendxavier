@@ -25,6 +25,12 @@ I'm a Senior Consultant at [Insight](https://au.insight.com/en_AU) working in th
 * [Dev.to](https://dev.to/rollendxavier)
 * [Gists](https://gist.github.com/rollendxavier)
 
+### :books: Articles Written
+<img src="https://insight-services-apac.github.io/assets/images/favicon.ico.png" width="20" height="20"> [Multi-environment Cloud Infrastructure with Terraform & Azure DevOps](https://insight-services-apac.github.io/2022/07/13/terraform-multienvironment.html)
+
+<img src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" width="20" height="20"> [AWS: Serverless computing (FaaS) application using AWS Lambda and AWS Rekognition (SaaS)](https://medium.com/@rollendxavier/aws-serverless-computing-faas-application-using-aws-lambda-and-aws-rekognition-saas-dbc072cee258)
+
+<img src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" width="20" height="20"> [Terraform: Blue/Green deployment with Azure App Service for Containers](https://medium.com/devops-dev/terraform-blue-green-deployment-with-azure-app-service-for-containers-978f3cc6479f)
 <!---
 rollendxavier/rollendxavier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
